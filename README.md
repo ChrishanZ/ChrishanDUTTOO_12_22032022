@@ -25,5 +25,5 @@ SportSee developers.
 ## Packages utilisés
 
 - [create-react-app](https://create-react-app.dev/) to init our react projet
-- ...
+- [styled-component](https://styled-components.com/) for css in js style
 - ...
